@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotationPolonaise", "NotationPolonaise\NotationPolonaise.csproj", "{D142B587-DD69-4455-93CC-370D18A39446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D142B587-DD69-4455-93CC-370D18A39446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D142B587-DD69-4455-93CC-370D18A39446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D142B587-DD69-4455-93CC-370D18A39446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D142B587-DD69-4455-93CC-370D18A39446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D624F00-D3E3-434F-84C6-67B5B91E0FE3}
+	EndGlobalSection
+EndGlobal
